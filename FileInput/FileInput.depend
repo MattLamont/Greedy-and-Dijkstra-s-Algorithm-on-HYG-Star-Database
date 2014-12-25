@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1394079690 source:c:\users\owner\google drive\ucd spring 2014\algorithms\hw 2\fileinput\main.cpp
+	<iostream>
+	<iomanip>
+	"FileInput.h"
+
+1394079496 source:c:\users\owner\google drive\ucd spring 2014\algorithms\hw 2\fileinput\fileinput.cpp
+	"FileInput.h"
+
+1394080257 c:\users\owner\google drive\ucd spring 2014\algorithms\hw 2\fileinput\fileinput.h
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iostream>
+

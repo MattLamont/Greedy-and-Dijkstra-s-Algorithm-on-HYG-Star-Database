@@ -1,0 +1,328 @@
+327 stars read from HYG database file hygxyz.csv
+..Sol -> Proxima Centauri, distance = 1.29, cumulative = 1.29
+..Proxima Centauri -> Rigel Kentaurus B, distance = 0.07, cumulative = 1.37
+..Rigel Kentaurus B -> Rigel Kentaurus A, distance = 0.00, cumulative = 1.37
+..Rigel Kentaurus A -> Barnard's Star, distance = 1.98, cumulative = 3.35
+..Barnard's Star -> Gliese Gl 729, distance = 1.70, cumulative = 5.05
+..Gliese Gl 729 -> Lacaille 8760, distance = 2.26, cumulative = 7.31
+..Lacaille 8760 -> Gliese Gl 832, distance = 1.28, cumulative = 8.59
+..Gliese Gl 832 -> Eps Ind, distance = 1.47, cumulative = 10.06
+..Eps Ind -> Lacaille 9352, distance = 1.44, cumulative = 11.50
+..Lacaille 9352 -> Gliese Gl 866  A, distance = 1.25, cumulative = 12.75
+..Gliese Gl 866  A -> Unnamed star 113751, distance = 1.31, cumulative = 14.05
+..Unnamed star 113751 -> Gliese Gl 876, distance = 0.28, cumulative = 14.34
+..Gliese Gl 876 -> Gliese GJ 1002, distance = 1.57, cumulative = 15.91
+..Gliese GJ 1002 -> Gliese GJ 1005 A, distance = 0.92, cumulative = 16.83
+..Gliese GJ 1005 A -> Gliese Gl  54.1, distance = 1.83, cumulative = 18.66
+..Gliese Gl  54.1 -> 52Tau Cet, distance = 0.50, cumulative = 19.15
+..52Tau Cet -> Gliese Gl  65  A, distance = 1.03, cumulative = 20.18
+..Gliese Gl  65  A -> Gliese Gl  65  B, distance = 0.00, cumulative = 20.18
+..Gliese Gl  65  B -> 18Eps Eri, distance = 1.57, cumulative = 21.75
+..18Eps Eri -> Unnamed star 15650, distance = 1.22, cumulative = 22.97
+..Unnamed star 15650 -> 40Omi2Eri, distance = 1.33, cumulative = 24.30
+..40Omi2Eri -> Gliese Gl 166  B, distance = 0.01, cumulative = 24.31
+..Gliese Gl 166  B -> Gliese Gl 166  C, distance = 0.00, cumulative = 24.31
+..Gliese Gl 166  C -> Gliese NN 3323, distance = 1.56, cumulative = 25.87
+..Gliese NN 3323 -> Gliese Gl 205, distance = 0.94, cumulative = 26.81
+..Gliese Gl 205 -> Gliese NN 3379, distance = 0.98, cumulative = 27.79
+..Gliese NN 3379 -> Gliese Gl 213, distance = 1.12, cumulative = 28.91
+..Gliese Gl 213 -> Gliese Gl 223.2, distance = 1.92, cumulative = 30.83
+..Gliese Gl 223.2 -> Gliese GJ 1087, distance = 1.94, cumulative = 32.78
+..Gliese GJ 1087 -> Gliese Gl 203, distance = 1.39, cumulative = 34.16
+..Gliese Gl 203 -> 1Pi 3Ori, distance = 1.58, cumulative = 35.74
+..1Pi 3Ori -> Gliese Gl 183, distance = 2.06, cumulative = 37.80
+..Gliese Gl 183 -> Gliese NN 3306, distance = 1.25, cumulative = 39.05
+..Gliese NN 3306 -> Gliese NN 3325, distance = 1.75, cumulative = 40.80
+..Gliese NN 3325 -> Gliese Gl 190, distance = 0.24, cumulative = 41.05
+..Gliese Gl 190 -> Gliese Gl 185  B, distance = 0.96, cumulative = 42.01
+..Gliese Gl 185  B -> Gliese Gl 185  A, distance = 0.00, cumulative = 42.01
+..Gliese Gl 185  A -> Gliese Gl 216  B, distance = 1.56, cumulative = 43.57
+..Gliese Gl 216  B -> 13Gam Lep, distance = 0.01, cumulative = 43.57
+..13Gam Lep -> Unnamed star 20916, distance = 2.79, cumulative = 46.36
+..Unnamed star 20916 -> Gliese GJ 1054 B, distance = 2.69, cumulative = 49.05
+..Gliese GJ 1054 B -> Gliese NN 3193 B, distance = 1.99, cumulative = 51.03
+..Gliese NN 3193 B -> 23Del Eri, distance = 2.26, cumulative = 53.29
+..23Del Eri -> Gliese GJ 1065, distance = 0.83, cumulative = 54.12
+..Gliese GJ 1065 -> 96Kap1Cet, distance = 2.03, cumulative = 56.15
+..96Kap1Cet -> Gliese GJ 1057, distance = 0.76, cumulative = 56.91
+..Gliese GJ 1057 -> Gliese Gl 105  B, distance = 1.80, cumulative = 58.71
+..Gliese Gl 105  B -> 268 G. Cet, distance = 0.00, cumulative = 58.72
+..268 G. Cet -> Gliese NN 3146, distance = 1.68, cumulative = 60.40
+..Gliese NN 3146 -> Gliese NN 3128, distance = 0.86, cumulative = 61.26
+..Gliese NN 3128 -> Gliese NN 3076, distance = 2.08, cumulative = 63.34
+..Gliese NN 3076 -> 107    Psc, distance = 1.59, cumulative = 64.93
+..107    Psc -> Gliese Gl 109, distance = 1.98, cumulative = 66.91
+..Gliese Gl 109 -> Gliese Gl 102, distance = 2.24, cumulative = 69.15
+..Gliese Gl 102 -> Gliese NN 3253, distance = 3.38, cumulative = 72.53
+..Gliese NN 3253 -> Gliese NN 3275, distance = 1.23, cumulative = 73.76
+..Gliese NN 3275 -> Unnamed star 21879, distance = 0.84, cumulative = 74.60
+..Unnamed star 21879 -> Gliese Gl 176, distance = 0.11, cumulative = 74.71
+..Gliese Gl 176 -> Gliese NN 3304, distance = 1.71, cumulative = 76.42
+..Gliese NN 3304 -> 54Chi1Ori, distance = 3.36, cumulative = 79.78
+..54Chi1Ori -> Gliese Gl 232, distance = 1.19, cumulative = 80.97
+..Gliese Gl 232 -> Gliese GJ 1093, distance = 1.39, cumulative = 82.36
+..Gliese GJ 1093 -> Gliese Gl 239, distance = 2.25, cumulative = 84.61
+..Gliese Gl 239 -> Gliese Gl 250  A, distance = 3.87, cumulative = 88.48
+..Gliese Gl 250  A -> Gliese Gl 250  B, distance = 0.00, cumulative = 88.49
+..Gliese Gl 250  B -> Gliese GJ 1103 A, distance = 2.40, cumulative = 90.88
+..Gliese GJ 1103 A -> Gliese GJ 1103 B, distance = 0.00, cumulative = 90.88
+..Gliese GJ 1103 B -> Gliese GJ 2066, distance = 1.04, cumulative = 91.92
+..Gliese GJ 2066 -> Gliese NN 3517, distance = 1.73, cumulative = 93.65
+..Gliese NN 3517 -> Gliese GJ 1125, distance = 1.93, cumulative = 95.58
+..Gliese GJ 1125 -> Gliese Gl 382, distance = 2.50, cumulative = 98.08
+..Gliese Gl 382 -> Gliese Gl 393, distance = 1.00, cumulative = 99.08
+..Gliese Gl 393 -> Gliese Gl 402, distance = 1.83, cumulative = 100.91
+..Gliese Gl 402 -> Gliese Gl 388, distance = 1.56, cumulative = 102.47
+..Gliese Gl 388 -> Gliese GJ 1116 B, distance = 1.71, cumulative = 104.19
+..Gliese GJ 1116 B -> Gliese GJ 1116 A, distance = 0.00, cumulative = 104.19
+..Gliese GJ 1116 A -> Gliese NN 3522, distance = 1.22, cumulative = 105.40
+..Gliese NN 3522 -> Gliese GJ 1111, distance = 1.60, cumulative = 107.01
+..Gliese GJ 1111 -> Gliese Gl 280  B, distance = 1.53, cumulative = 108.54
+..Gliese Gl 280  B -> Procyon, distance = 0.00, cumulative = 108.54
+..Procyon -> Luyten's Star, distance = 0.36, cumulative = 108.89
+..Luyten's Star -> Gliese Gl 234  A, distance = 1.18, cumulative = 110.08
+..Gliese Gl 234  A -> Gliese Gl 234  B, distance = 0.00, cumulative = 110.08
+..Gliese Gl 234  B -> Gliese Gl 244  B, distance = 1.70, cumulative = 111.77
+..Gliese Gl 244  B -> Sirius, distance = 0.00, cumulative = 111.77
+..Sirius -> Kapteyn's Star, distance = 2.29, cumulative = 114.07
+..Kapteyn's Star -> Gliese GJ 1061, distance = 1.26, cumulative = 115.33
+..Gliese GJ 1061 -> 82 G. Eri, distance = 1.79, cumulative = 117.12
+..82 G. Eri -> Gliese GJ 2034, distance = 2.54, cumulative = 119.66
+..Gliese GJ 2034 -> p Eridani, distance = 3.56, cumulative = 123.22
+..p Eridani -> Gliese Gl  66  A, distance = 0.00, cumulative = 123.22
+..Gliese Gl  66  A -> Gliese Gl  54, distance = 1.67, cumulative = 124.89
+..Gliese Gl  54 -> Zet Tuc, distance = 0.95, cumulative = 125.83
+..Zet Tuc -> Gliese Gl 877, distance = 1.89, cumulative = 127.72
+..Gliese Gl 877 -> Bet Hyi, distance = 1.38, cumulative = 129.11
+..Bet Hyi -> Gliese NN 4285, distance = 1.86, cumulative = 130.97
+..Gliese NN 4285 -> Del Pav, distance = 1.82, cumulative = 132.79
+..Del Pav -> Gliese Gl 693, distance = 1.95, cumulative = 134.74
+..Gliese Gl 693 -> Unnamed star 82474, distance = 1.17, cumulative = 135.91
+..Unnamed star 82474 -> Gliese Gl 674, distance = 1.39, cumulative = 137.31
+..Gliese Gl 674 -> Gliese Gl 682, distance = 0.56, cumulative = 137.87
+..Gliese Gl 682 -> Unnamed star 86694, distance = 1.66, cumulative = 139.52
+..Unnamed star 86694 -> Unnamed star 86696, distance = 0.00, cumulative = 139.52
+..Unnamed star 86696 -> Gliese Gl 664, distance = 0.93, cumulative = 140.46
+..Gliese Gl 664 -> 36    Oph, distance = 0.03, cumulative = 140.48
+..36    Oph -> 36    Oph, distance = 0.00, cumulative = 140.49
+..36    Oph -> Gliese Gl 667  B, distance = 1.37, cumulative = 141.85
+..Gliese Gl 667  B -> Gliese Gl 667  C, distance = 0.00, cumulative = 141.85
+..Gliese Gl 667  C -> Gliese Gl 667  A, distance = 0.00, cumulative = 141.86
+..Gliese Gl 667  A -> Gliese Gl 618  B, distance = 2.21, cumulative = 144.07
+..Gliese Gl 618  B -> Gliese Gl 618  A, distance = 0.00, cumulative = 144.07
+..Gliese Gl 618  A -> Gliese Gl 633, distance = 1.82, cumulative = 145.89
+..Gliese Gl 633 -> Gliese Gl 666  B, distance = 1.31, cumulative = 147.20
+..Gliese Gl 666  B -> Gliese Gl 666  A, distance = 0.00, cumulative = 147.20
+..Gliese Gl 666  A -> Gliese Gl 680, distance = 1.13, cumulative = 148.33
+..Gliese Gl 680 -> Unnamed star 82473, distance = 2.52, cumulative = 150.86
+..Unnamed star 82473 -> Gliese Gl 588, distance = 4.46, cumulative = 155.32
+..Gliese Gl 588 -> Gliese NN 3877, distance = 1.61, cumulative = 156.93
+..Gliese NN 3877 -> 33 G. Lib, distance = 0.78, cumulative = 157.70
+..33 G. Lib -> Gliese Gl 555, distance = 1.12, cumulative = 158.82
+..Gliese Gl 555 -> Gliese Gl 581, distance = 1.31, cumulative = 160.13
+..Gliese Gl 581 -> Gliese Gl 570  B, distance = 2.13, cumulative = 162.26
+..Gliese Gl 570  B -> Gliese Gl 595, distance = 1.62, cumulative = 163.89
+..Gliese Gl 595 -> Gliese Gl 643, distance = 3.16, cumulative = 167.05
+..Gliese Gl 643 -> Gliese Gl 644  A, distance = 0.76, cumulative = 167.80
+..Gliese Gl 644  A -> Gliese Gl 644  B, distance = 0.00, cumulative = 167.80
+..Gliese Gl 644  B -> Gliese Gl 644  C, distance = 0.01, cumulative = 167.81
+..Gliese Gl 644  C -> Gliese Gl 628, distance = 1.61, cumulative = 169.42
+..Gliese Gl 628 -> Gliese Gl 563.2B, distance = 2.00, cumulative = 171.42
+..Gliese Gl 563.2B -> Gliese Gl 563.2A, distance = 0.26, cumulative = 171.68
+..Gliese Gl 563.2A -> Gliese Gl 447, distance = 3.56, cumulative = 175.25
+..Gliese Gl 447 -> Gliese Gl 406, distance = 1.18, cumulative = 176.42
+..Gliese Gl 406 -> Lalande 21185, distance = 1.24, cumulative = 177.67
+..Lalande 21185 -> Gliese Gl 412  B, distance = 2.33, cumulative = 180.00
+..Gliese Gl 412  B -> Gliese Gl 412  A, distance = 0.01, cumulative = 180.00
+..Gliese Gl 412  A -> Groombridge 1618, distance = 0.93, cumulative = 180.93
+..Groombridge 1618 -> Gliese Gl 338  A, distance = 1.60, cumulative = 182.53
+..Gliese Gl 338  A -> Gliese Gl 338  B, distance = 0.08, cumulative = 182.62
+..Gliese Gl 338  B -> Gliese Gl 268, distance = 2.80, cumulative = 185.42
+..Gliese Gl 268 -> Gliese Gl 251, distance = 0.88, cumulative = 186.30
+..Gliese Gl 251 -> Unnamed star 33139, distance = 0.25, cumulative = 186.54
+..Unnamed star 33139 -> Gliese NN 3454, distance = 2.89, cumulative = 189.43
+..Gliese NN 3454 -> Gliese Gl 285, distance = 0.49, cumulative = 189.93
+..Gliese Gl 285 -> Gliese Gl 299, distance = 1.26, cumulative = 191.19
+..Gliese Gl 299 -> Gliese GJ 2069 B, distance = 2.54, cumulative = 193.73
+..Gliese GJ 2069 B -> Gliese GJ 1105, distance = 3.43, cumulative = 197.16
+..Gliese GJ 1105 -> Gliese NN 3421, distance = 2.42, cumulative = 199.59
+..Gliese NN 3421 -> Gliese NN 3380, distance = 1.61, cumulative = 201.20
+..Gliese NN 3380 -> Gliese NN 3378, distance = 2.23, cumulative = 203.42
+..Gliese NN 3378 -> Gliese NN 3417, distance = 1.00, cumulative = 204.42
+..Gliese NN 3417 -> Gliese NN 3512, distance = 2.97, cumulative = 207.39
+..Gliese NN 3512 -> Gliese Gl 424, distance = 3.25, cumulative = 210.64
+..Gliese Gl 424 -> Gliese GJ 1151, distance = 2.83, cumulative = 213.48
+..Gliese GJ 1151 -> 8Bet CVn, distance = 1.50, cumulative = 214.98
+..8Bet CVn -> Gliese Gl 450, distance = 1.53, cumulative = 216.51
+..Gliese Gl 450 -> Groombridge 1830, distance = 0.72, cumulative = 217.23
+..Groombridge 1830 -> Gliese Gl 451  B, distance = 0.01, cumulative = 217.24
+..Gliese Gl 451  B -> 61    UMa, distance = 0.80, cumulative = 218.04
+..61    UMa -> Gliese GJ 1138, distance = 1.80, cumulative = 219.83
+..Gliese GJ 1138 -> Gliese NN 3667, distance = 3.27, cumulative = 223.10
+..Gliese NN 3667 -> Gliese Gl 408, distance = 2.41, cumulative = 225.51
+..Gliese Gl 408 -> Gliese GJ 1156, distance = 2.53, cumulative = 228.05
+..Gliese GJ 1156 -> Gliese GJ 2097, distance = 1.70, cumulative = 229.75
+..Gliese GJ 2097 -> Gliese Gl 526, distance = 1.49, cumulative = 231.24
+..Gliese Gl 526 -> Gliese Gl 473  A, distance = 1.93, cumulative = 233.16
+..Gliese Gl 473  A -> Gliese Gl 473  B, distance = 0.00, cumulative = 233.16
+..Gliese Gl 473  B -> Gliese NN 3622, distance = 2.53, cumulative = 235.69
+..Gliese NN 3622 -> Gliese Gl 300, distance = 3.67, cumulative = 239.36
+..Gliese Gl 300 -> Gliese Gl 229, distance = 2.85, cumulative = 242.21
+..Gliese Gl 229 -> Gliese Gl 257  A, distance = 3.66, cumulative = 245.87
+..Gliese Gl 257  A -> Gliese Gl 257  B, distance = 0.00, cumulative = 245.87
+..Gliese Gl 257  B -> Gliese Gl 293, distance = 3.36, cumulative = 249.23
+..Gliese Gl 293 -> Gliese GJ 1128, distance = 1.35, cumulative = 250.58
+..Gliese GJ 1128 -> Gliese NN 3618, distance = 1.95, cumulative = 252.53
+..Gliese NN 3618 -> Gliese Gl 440, distance = 0.63, cumulative = 253.17
+..Gliese Gl 440 -> Unnamed star 54139, distance = 2.18, cumulative = 255.34
+..Unnamed star 54139 -> Gliese Gl 438, distance = 2.10, cumulative = 257.44
+..Gliese Gl 438 -> Gliese Gl 479, distance = 1.82, cumulative = 259.26
+..Gliese Gl 479 -> Gliese Gl 480.1, distance = 2.36, cumulative = 261.63
+..Gliese Gl 480.1 -> Gliese NN 3737, distance = 0.82, cumulative = 262.45
+..Gliese NN 3737 -> Gliese Gl 442  B, distance = 2.52, cumulative = 264.97
+..Gliese Gl 442  B -> Gliese Gl 442  A, distance = 0.00, cumulative = 264.97
+..Gliese Gl 442  A -> Gliese Gl 433, distance = 1.33, cumulative = 266.30
+..Gliese Gl 433 -> Gliese Gl 432  A, distance = 0.50, cumulative = 266.81
+..Gliese Gl 432  A -> Gliese Gl 432  B, distance = 0.00, cumulative = 266.81
+..Gliese Gl 432  B -> Gliese Gl 465, distance = 3.03, cumulative = 269.83
+..Gliese Gl 465 -> Gliese NN 3707, distance = 0.74, cumulative = 270.57
+..Gliese NN 3707 -> Gliese GJ 1154 A, distance = 2.42, cumulative = 273.00
+..Gliese GJ 1154 A -> Gliese Gl 486, distance = 1.81, cumulative = 274.81
+..Gliese Gl 486 -> Gliese Gl 493.1, distance = 0.74, cumulative = 275.55
+..Gliese Gl 493.1 -> Gliese Gl 514, distance = 1.30, cumulative = 276.84
+..Gliese Gl 514 -> Gliese Gl 518, distance = 1.10, cumulative = 277.95
+..Gliese Gl 518 -> 61    Vir, distance = 3.27, cumulative = 281.22
+..61    Vir -> Gliese NN 3820, distance = 1.54, cumulative = 282.75
+..Gliese NN 3820 -> Gliese Gl 566  B, distance = 5.86, cumulative = 288.61
+..Gliese Gl 566  B -> 37Xi  Boo, distance = 0.00, cumulative = 288.61
+..37Xi  Boo -> Gliese NN 3839, distance = 2.80, cumulative = 291.41
+..Gliese NN 3839 -> Gliese NN 3801, distance = 1.22, cumulative = 292.63
+..Gliese NN 3801 -> Gliese NN 3789, distance = 1.35, cumulative = 293.98
+..Gliese NN 3789 -> 43Bet Com, distance = 1.40, cumulative = 295.38
+..43Bet Com -> Gliese Gl 569  A, distance = 4.39, cumulative = 299.77
+..Gliese Gl 569  A -> Gliese NN 3976, distance = 4.82, cumulative = 304.59
+..Gliese NN 3976 -> Gliese Gl 638, distance = 1.93, cumulative = 306.52
+..Gliese Gl 638 -> Gliese NN 3959, distance = 1.37, cumulative = 307.89
+..Gliese NN 3959 -> Gliese NN 3988, distance = 2.08, cumulative = 309.97
+..Gliese NN 3988 -> Gliese Gl 694, distance = 1.74, cumulative = 311.72
+..Gliese Gl 694 -> Gliese NN 4063, distance = 2.08, cumulative = 313.80
+..Gliese NN 4063 -> Vega, distance = 0.37, cumulative = 314.17
+..Vega -> Gliese Gl 747  A, distance = 1.29, cumulative = 315.45
+..Gliese Gl 747  A -> Gliese Gl 747  B, distance = 0.00, cumulative = 315.45
+..Gliese Gl 747  B -> Gliese GJ 1230 B, distance = 1.53, cumulative = 316.99
+..Gliese GJ 1230 B -> Gliese GJ 1230 A, distance = 0.00, cumulative = 316.99
+..Gliese GJ 1230 A -> Gliese Gl 745  A, distance = 1.61, cumulative = 318.60
+..Gliese Gl 745  A -> Gliese Gl 745  B, distance = 0.24, cumulative = 318.84
+..Gliese Gl 745  B -> 86Mu  Her, distance = 2.97, cumulative = 321.81
+..86Mu  Her -> Gliese Gl 695  B, distance = 0.00, cumulative = 321.81
+..Gliese Gl 695  B -> Gliese Gl 695  C, distance = 0.00, cumulative = 321.81
+..Gliese Gl 695  C -> Gliese Gl 686, distance = 1.37, cumulative = 323.19
+..Gliese Gl 686 -> Gliese Gl 673, distance = 2.34, cumulative = 325.53
+..Gliese Gl 673 -> Gliese Gl 701, distance = 1.50, cumulative = 327.03
+..Gliese Gl 701 -> Gliese GJ 1224, distance = 1.75, cumulative = 328.78
+..Gliese GJ 1224 -> 70    Oph, distance = 3.15, cumulative = 331.93
+..70    Oph -> Gliese Gl 702  B, distance = 0.00, cumulative = 331.93
+..Gliese Gl 702  B -> Gliese Gl 752  A, distance = 1.88, cumulative = 333.82
+..Gliese Gl 752  A -> Gliese Gl 752  B, distance = 0.00, cumulative = 333.82
+..Gliese Gl 752  B -> Altair, distance = 1.14, cumulative = 334.96
+..Altair -> Unnamed star 102709, distance = 2.77, cumulative = 337.74
+..Unnamed star 102709 -> Gliese Gl 783  B, distance = 2.19, cumulative = 339.93
+..Gliese Gl 783  B -> Gliese Gl 783  A, distance = 0.00, cumulative = 339.93
+..Gliese Gl 783  A -> Gliese Gl 784, distance = 0.98, cumulative = 340.91
+..Gliese Gl 784 -> Gliese Gl 754, distance = 1.09, cumulative = 342.01
+..Gliese Gl 754 -> Unnamed star 93157, distance = 2.75, cumulative = 344.76
+..Unnamed star 93157 -> Gliese Gl 785, distance = 2.79, cumulative = 347.55
+..Gliese Gl 785 -> Gliese Gl 803, distance = 1.70, cumulative = 349.25
+..Gliese Gl 803 -> Gliese NN 4248, distance = 2.94, cumulative = 352.19
+..Gliese NN 4248 -> Gliese Gl 879, distance = 3.03, cumulative = 355.21
+..Gliese Gl 879 -> Fomalhaut, distance = 0.27, cumulative = 355.48
+..Fomalhaut -> Unnamed star 113816, distance = 1.02, cumulative = 356.50
+..Unnamed star 113816 -> Gliese Gl 884, distance = 1.88, cumulative = 358.38
+..Gliese Gl 884 -> Gliese Gl 867  A, distance = 0.93, cumulative = 359.31
+..Gliese Gl 867  A -> Gliese Gl 867  B, distance = 0.00, cumulative = 359.31
+..Gliese Gl 867  B -> Gliese NN 4274, distance = 1.36, cumulative = 360.67
+..Gliese NN 4274 -> Gliese GJ 1276, distance = 1.87, cumulative = 362.55
+..Gliese GJ 1276 -> Gliese GJ 1286, distance = 1.71, cumulative = 364.25
+..Gliese GJ 1286 -> Gliese Gl 908, distance = 1.42, cumulative = 365.67
+..Gliese Gl 908 -> Gliese Gl 896  A, distance = 1.93, cumulative = 367.61
+..Gliese Gl 896  A -> Gliese Gl 896  B, distance = 0.00, cumulative = 367.61
+..Gliese Gl 896  B -> Gliese Gl 880, distance = 1.21, cumulative = 368.82
+..Gliese Gl 880 -> Gliese Gl 829, distance = 2.46, cumulative = 371.28
+..Gliese Gl 829 -> Gliese NN 4247, distance = 2.82, cumulative = 374.11
+..Gliese NN 4247 -> Gliese GJ 1289, distance = 3.49, cumulative = 377.60
+..Gliese GJ 1289 -> Gliese Gl 892, distance = 3.13, cumulative = 380.73
+..Gliese Gl 892 -> Gliese Gl  34  B, distance = 1.50, cumulative = 382.23
+..Gliese Gl  34  B -> 24Eta Cas, distance = 0.00, cumulative = 382.23
+..24Eta Cas -> Gliese Gl  53  B, distance = 1.66, cumulative = 383.90
+..Gliese Gl  53  B -> 30Mu  Cas, distance = 0.01, cumulative = 383.90
+..30Mu  Cas -> Gliese Gl  51, distance = 1.82, cumulative = 385.72
+..Gliese Gl  51 -> Gliese Gl  75, distance = 1.29, cumulative = 387.01
+..Gliese Gl  75 -> Gliese NN 3126, distance = 0.27, cumulative = 387.28
+..Gliese NN 3126 -> Gliese Gl  48, distance = 2.40, cumulative = 389.67
+..Gliese Gl  48 -> Gliese Gl 226, distance = 3.03, cumulative = 392.71
+..Gliese Gl 226 -> 44Chi Dra, distance = 4.02, cumulative = 396.73
+..44Chi Dra -> Gliese NN 4053, distance = 1.17, cumulative = 397.89
+..Gliese NN 4053 -> Gliese GJ 1227, distance = 1.11, cumulative = 399.01
+..Gliese GJ 1227 -> Gliese Gl 793, distance = 2.05, cumulative = 401.05
+..Gliese Gl 793 -> Gliese Gl 809, distance = 1.06, cumulative = 402.12
+..Gliese Gl 809 -> 61Sig Dra, distance = 1.77, cumulative = 403.89
+..61Sig Dra -> Gliese GJ 1221, distance = 0.99, cumulative = 404.88
+..Gliese GJ 1221 -> Gliese Gl 687, distance = 1.63, cumulative = 406.51
+..Gliese Gl 687 -> Gliese Gl 725  A, distance = 1.24, cumulative = 407.75
+..Gliese Gl 725  A -> Gliese Gl 725  B, distance = 0.05, cumulative = 407.81
+..Gliese Gl 725  B -> Gliese GJ 1245 A, distance = 1.78, cumulative = 409.59
+..Gliese GJ 1245 A -> Gliese GJ 1245 B, distance = 0.00, cumulative = 409.59
+..Gliese GJ 1245 B -> 61    Cyg, distance = 1.60, cumulative = 411.19
+..61    Cyg -> 61    Cyg, distance = 0.02, cumulative = 411.21
+..61    Cyg -> Kruger 60, distance = 1.58, cumulative = 412.79
+..Kruger 60 -> Gliese Gl 860  B, distance = 0.00, cumulative = 412.80
+..Gliese Gl 860  B -> Gliese Gl 905, distance = 1.38, cumulative = 414.18
+..Gliese Gl 905 -> Gliese Gl  15  B, distance = 0.55, cumulative = 414.73
+..Gliese Gl  15  B -> Gliese Gl  15  A, distance = 0.00, cumulative = 414.73
+..Gliese Gl  15  A -> Gliese Gl 873, distance = 1.91, cumulative = 416.64
+..Gliese Gl 873 -> Van Maanen's Star, distance = 3.83, cumulative = 420.48
+..Van Maanen's Star -> Gliese Gl  83.1, distance = 1.47, cumulative = 421.95
+..Gliese Gl  83.1 -> 96 G. Psc, distance = 3.57, cumulative = 425.52
+..96 G. Psc -> Gliese NN 3119, distance = 3.86, cumulative = 429.37
+..Gliese NN 3119 -> Gliese Gl  84, distance = 2.11, cumulative = 431.48
+..Gliese Gl  84 -> Gliese NN 3135, distance = 2.07, cumulative = 433.55
+..Gliese NN 3135 -> Gliese GJ 1028, distance = 3.15, cumulative = 436.70
+..Gliese GJ 1028 -> Gliese GJ 2012, distance = 1.20, cumulative = 437.90
+..Gliese GJ 2012 -> Gliese GJ 2005, distance = 2.56, cumulative = 440.47
+..Gliese GJ 2005 -> Gliese Gl 915, distance = 2.23, cumulative = 442.70
+..Gliese Gl 915 -> Gliese GJ 1001, distance = 1.84, cumulative = 444.54
+..Gliese GJ 1001 -> Gliese NN 3049, distance = 1.29, cumulative = 445.82
+..Gliese NN 3049 -> Gliese NN 4360, distance = 4.66, cumulative = 450.49
+..Gliese NN 4360 -> Gliese Gl 849, distance = 4.04, cumulative = 454.53
+..Gliese Gl 849 -> Gliese Gl 831  A, distance = 1.75, cumulative = 456.28
+..Gliese Gl 831  A -> Gliese Gl 831  B, distance = 0.00, cumulative = 456.28
+..Gliese Gl 831  B -> Gliese Gl 791.2, distance = 3.67, cumulative = 459.95
+..Gliese Gl 791.2 -> Gliese GJ 1256, distance = 1.50, cumulative = 461.45
+..Gliese GJ 1256 -> Gliese GJ 1253, distance = 7.06, cumulative = 468.51
+..Gliese GJ 1253 -> Gliese Gl 661  B, distance = 5.12, cumulative = 473.63
+..Gliese Gl 661  B -> Gliese Gl 661  A, distance = 0.00, cumulative = 473.63
+..Gliese Gl 661  A -> Gliese NN 3991, distance = 0.96, cumulative = 474.59
+..Gliese NN 3991 -> Gliese Gl 623, distance = 1.45, cumulative = 476.04
+..Gliese Gl 623 -> Gliese Gl 625, distance = 1.64, cumulative = 477.69
+..Gliese Gl 625 -> Unnamed star 85346, distance = 3.54, cumulative = 481.23
+..Unnamed star 85346 -> Gliese Gl 445, distance = 5.56, cumulative = 486.79
+..Gliese Gl 445 -> Gliese Gl 169.1B, distance = 3.39, cumulative = 490.18
+..Gliese Gl 169.1B -> Gliese Gl 169.1A, distance = 0.00, cumulative = 490.18
+..Gliese Gl 169.1A -> Gliese Wo 9492, distance = 7.92, cumulative = 498.10
+..Gliese Wo 9492 -> Gliese NN 3855, distance = 1.12, cumulative = 499.22
+..Gliese NN 3855 -> Gliese Gl 678.1A, distance = 10.42, cumulative = 509.64
+..Gliese Gl 678.1A -> Gliese GJ 1207, distance = 2.24, cumulative = 511.88
+..Gliese GJ 1207 -> 12    Oph, distance = 0.96, cumulative = 512.84
+..12    Oph -> Unnamed star 84326, distance = 2.00, cumulative = 514.83
+..Unnamed star 84326 -> Gliese Gl   1, distance = 11.14, cumulative = 525.98
+..Gliese Gl   1 -> Gam Pav, distance = 6.26, cumulative = 532.24
+..Gam Pav -> Unnamed star 31220, distance = 5.55, cumulative = 537.78
+..Unnamed star 31220 -> Unnamed star 31215, distance = 0.39, cumulative = 538.18
+..Unnamed star 31215 -> Gliese GJ 1123, distance = 1.52, cumulative = 539.70
+..Gliese GJ 1123 -> Gliese Gl 367, distance = 5.23, cumulative = 544.93
+..Gliese Gl 367 -> Gliese Gl 358, distance = 0.87, cumulative = 545.79
+..Gliese Gl 358 -> Gliese Gl 318, distance = 2.34, cumulative = 548.13
+..Gliese Gl 318 -> Gliese Gl 357, distance = 2.57, cumulative = 550.70
+..Gliese Gl 357 -> Gliese Gl 283  A, distance = 4.26, cumulative = 554.97
+..Gliese Gl 283  A -> Gliese Gl 283  B, distance = 0.00, cumulative = 554.97
+Total distance traversed is 554.97 parsecs.

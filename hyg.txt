@@ -1,0 +1,127 @@
+package hyg
+
+import (
+		"bufio"
+		"fmt"
+		"os"
+		"math"
+		"strconv"
+		"strings"
+		)
+
+// A star represents an entry in the HYG database. Only the fields needed to
+// compute the traversal are included.
+//   id       - The database primary key from a larger "master database" of
+//              stars.
+//   name     - The name of the star based on the proper name, Bayer Flamsteed
+//              designation, Gliese designation, or id (for unnamed stars).
+//   distance - The star's distance in parsecs, the most common unit in
+//              astrometry.
+//   x, y, z  - The Cartesian coordinates of the star, in a system based on
+//              the equatorial coordinates as seen from Earth.
+// See the README.md file for more details.
+type Star struct {
+	id int;
+	name string;
+	distance float64;
+	x, y, z float64;
+}
+
+// Returns a new star using the fields from an entry in the HYG Database of
+// stars - i.e., the comma separated strings in the csv file.
+func newStar(fields []string) Star {
+	// Field numbers can be found by looking at the first line of the HYG
+	// Database csv file.
+	id, _ := strconv.Atoi(fields[0])
+	var name string
+	if fields[6] != "" {
+		name = fields[6]
+	} else if fields[5] != "" {
+		name = fields[5]
+	} else if fields[4] != "" {
+		name = "Gliese " + fields[4]
+	} else {
+		name = "Unnamed star " + strconv.Itoa(id)
+	}
+	distance, _ := strconv.ParseFloat(fields[9], 64)
+	x , _ := strconv.ParseFloat(fields[17], 64)
+	y , _ := strconv.ParseFloat(fields[18], 64)
+	z , _ := strconv.ParseFloat(fields[19], 64)
+	return Star{id, name, distance, x, y, z}
+}
+
+// Returns the name of the star as a string.
+func (s Star) String() string {
+	return s.name
+}
+
+// Reads the stars in a HYG Database csv file that are within r parsecs of
+// Sol.
+func ReadStars(name string, r float64) (stars []Star) {
+	// Open the specified HYG Database csv file.
+	file, err := os.Open(name)
+	if err != nil {
+		panic("HYG Database file " + name + " not found.")
+	}
+	defer file.Close()
+	// Read the file - skipping the header line, split it into comma separated
+	// fields, and save stars that are within the specified radius of Sol.
+	scanner := bufio.NewScanner(file)
+	scanner.Scan()
+	for scanner.Scan() {
+		if fields := strings.Split(scanner.Text(), ","); len(fields) == 23 {
+			if star := newStar(fields); star.distance <= r {
+				stars = append(stars, newStar(fields))
+			}
+		}
+	}
+	// Print a summary of the stars read.
+	fmt.Printf("%d stars read from HYG database file %s\n", len(stars), name)
+	return
+}
+
+// Prints a slice of stars.
+func PrintStars(stars []Star) {
+	for i, star := range stars {
+		fmt.Printf("%v: %s\n", i, star)
+	}
+}
+
+// Computes the distance between two stars.
+func DistanceBetween(s1, s2 Star) float64 {
+	dx := s2.x - s1.x
+	dy := s2.y - s1.y
+	dz := s2.z - s1.z
+	return math.Sqrt(dx*dx + dy*dy + dz*dz)
+}
+
+// Returns a list of stars and total distance travelled  in a greedy traversal
+// of stars using the function chooseStar to select the next star to visit.
+// Print the stars and cumulative distance as the stars are traversed.
+func GreedyTraversal(stars []Star, chooseStar func(Star, []Star) int) (closed []Star, c float64) {
+	// Start at stars[0], which is always Sol in the HYG Database. Add it to
+	// the closed list of visited stars.
+	s := stars[0]
+	closed = append(closed, s)
+	// Create the open list of unvisited stars. [We create and new slice and
+	// copy the rest of the stars to avoid changing the input slice.]
+    var open = make([]Star, len(stars)-1)
+	copy(open, stars[1:])
+	// Starting with Sol and until we have visited all of the stars, select and
+    // visit the next star.
+	for len(open) > 0 {
+		// Save the previous star.
+		p := s
+		// Choose the next star, remove it from open, and add it to closed.
+		i := chooseStar(p, open)
+		s = open[i]
+		open = append(open[:i], open[i+1:]...)
+		closed = append(closed, s)
+		// Accumulate the distance travelled.
+		d := DistanceBetween(p, s)
+		c += d
+		// Print the next star, the distance to it, and the cumulative distance.
+		fmt.Printf("..%v -> %v, distance = %.2f, cumulative = %.2f\n", p, s, d, c)
+	}
+	return
+}
